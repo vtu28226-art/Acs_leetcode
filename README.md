@@ -21,6 +21,7 @@ Acs solved problem in leetcode
 | [0160-intersection-of-two-linked-lists](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0622-design-circular-queue](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0622-design-circular-queue/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,6 +75,7 @@ Acs solved problem in leetcode
 | [0160-intersection-of-two-linked-lists](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0283-move-zeroes](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0344-reverse-string/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
