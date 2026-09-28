@@ -13,6 +13,7 @@ Acs solved problem in leetcode
 | [0496-next-greater-element-i](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0622-design-circular-queue](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0622-design-circular-queue/) | Medium |
 | [0704-binary-search](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0704-binary-search/) | Easy |
+| [0735-asteroid-collision](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu28226-art/Acs_leetcode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
@@ -140,6 +141,7 @@ Acs solved problem in leetcode
 | [0155-min-stack](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0155-min-stack/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0735-asteroid-collision](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu28226-art/Acs_leetcode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
@@ -179,4 +181,8 @@ Acs solved problem in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0020-valid-parentheses/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0735-asteroid-collision](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0735-asteroid-collision/) | Medium |
 <!---LeetCode Topics End-->
