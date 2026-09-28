@@ -8,6 +8,7 @@ Acs solved problem in leetcode
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0622-design-circular-queue](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0622-design-circular-queue/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,6 +62,7 @@ Acs solved problem in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,4 +87,8 @@ Acs solved problem in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
