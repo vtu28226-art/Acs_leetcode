@@ -6,6 +6,7 @@ Acs solved problem in leetcode
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0283-move-zeroes](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0283-move-zeroes/) | Easy |
@@ -76,6 +77,7 @@ Acs solved problem in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0075-sort-colors](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0141-linked-list-cycle](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -115,6 +117,7 @@ Acs solved problem in leetcode
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -157,4 +160,12 @@ Acs solved problem in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
