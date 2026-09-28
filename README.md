@@ -15,6 +15,7 @@ Acs solved problem in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0206-reverse-linked-list](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0622-design-circular-queue](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0622-design-circular-queue/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -92,6 +93,7 @@ Acs solved problem in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0206-reverse-linked-list](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
