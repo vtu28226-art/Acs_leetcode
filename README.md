@@ -32,6 +32,7 @@ Acs solved problem in leetcode
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0155-min-stack/) | Medium |
 | [0622-design-circular-queue](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0622-design-circular-queue/) | Medium |
 | [0901-online-stock-span](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0901-online-stock-span/) | Medium |
 ## Queue
@@ -136,6 +137,7 @@ Acs solved problem in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0155-min-stack](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0155-min-stack/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0739-daily-temperatures/) | Medium |
