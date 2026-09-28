@@ -44,6 +44,7 @@ Acs solved problem in leetcode
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0387-first-unique-character-in-a-string](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0622-design-circular-queue](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0622-design-circular-queue/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Tree
@@ -100,6 +101,7 @@ Acs solved problem in leetcode
 | [0020-valid-parentheses](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0344-reverse-string](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0344-reverse-string/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu28226-art/Acs_leetcode/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
@@ -139,6 +141,7 @@ Acs solved problem in leetcode
 | [0141-linked-list-cycle](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0496-next-greater-element-i](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -196,4 +199,8 @@ Acs solved problem in leetcode
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0946-validate-stack-sequences/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
