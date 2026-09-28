@@ -6,6 +6,7 @@ Acs solved problem in leetcode
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0283-move-zeroes](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0496-next-greater-element-i](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0496-next-greater-element-i/) | Easy |
@@ -152,4 +153,8 @@ Acs solved problem in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0704-binary-search](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0704-binary-search/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 <!---LeetCode Topics End-->
