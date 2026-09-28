@@ -98,6 +98,7 @@ Acs solved problem in leetcode
 | [0020-valid-parentheses](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0344-reverse-string](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0344-reverse-string/) | Easy |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu28226-art/Acs_leetcode/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -149,6 +150,7 @@ Acs solved problem in leetcode
 | [0739-daily-temperatures](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0946-validate-stack-sequences/) | Medium |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu28226-art/Acs_leetcode/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu28226-art/Acs_leetcode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
