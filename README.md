@@ -8,6 +8,7 @@ Acs solved problem in leetcode
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0283-move-zeroes](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0496-next-greater-element-i](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0622-design-circular-queue](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0622-design-circular-queue/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/vtu28226-art/Acs_leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -108,4 +109,13 @@ Acs solved problem in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0496-next-greater-element-i](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->
