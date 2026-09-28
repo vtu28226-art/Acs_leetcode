@@ -17,6 +17,7 @@ Acs solved problem in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0141-linked-list-cycle](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0622-design-circular-queue](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0622-design-circular-queue/) | Medium |
@@ -68,6 +69,7 @@ Acs solved problem in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0141-linked-list-cycle](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0283-move-zeroes](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0344-reverse-string/) | Easy |
@@ -109,6 +111,7 @@ Acs solved problem in leetcode
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0496-next-greater-element-i](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 ## Stack
@@ -121,4 +124,8 @@ Acs solved problem in leetcode
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0739-daily-temperatures/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
