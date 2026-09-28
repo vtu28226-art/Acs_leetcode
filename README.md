@@ -90,6 +90,7 @@ Acs solved problem in leetcode
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0344-reverse-string](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0344-reverse-string/) | Easy |
 ## String Matching
@@ -134,6 +135,7 @@ Acs solved problem in leetcode
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0739-daily-temperatures/) | Medium |
@@ -171,4 +173,8 @@ Acs solved problem in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0075-sort-colors/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
