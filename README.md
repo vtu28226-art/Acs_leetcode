@@ -10,6 +10,7 @@ Acs solved problem in leetcode
 | [0283-move-zeroes](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0496-next-greater-element-i](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0622-design-circular-queue](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0622-design-circular-queue/) | Medium |
+| [0704-binary-search](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/vtu28226-art/Acs_leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -137,4 +138,8 @@ Acs solved problem in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0901-online-stock-span](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0901-online-stock-span/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0704-binary-search](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
