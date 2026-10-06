@@ -55,6 +55,7 @@ Acs solved problem in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -62,17 +63,20 @@ Acs solved problem in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
