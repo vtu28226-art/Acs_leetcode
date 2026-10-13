@@ -58,6 +58,7 @@ Acs solved problem in leetcode
 | [0100-same-tree](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0104-maximum-depth-of-binary-tree](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0112-path-sum](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0113-path-sum-ii/) | Medium |
@@ -70,6 +71,7 @@ Acs solved problem in leetcode
 | [0094-binary-tree-inorder-traversal](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0101-symmetric-tree/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -81,6 +83,7 @@ Acs solved problem in leetcode
 | [0100-same-tree](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0104-maximum-depth-of-binary-tree](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0112-path-sum/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 ## Binary Tree
@@ -90,6 +93,7 @@ Acs solved problem in leetcode
 | [0100-same-tree](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0104-maximum-depth-of-binary-tree](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0112-path-sum](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/vtu28226-art/Acs_leetcode/tree/main/0113-path-sum-ii/) | Medium |
